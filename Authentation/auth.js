@@ -9,7 +9,7 @@ router.get('/auth_data', function(req, res) {
 });
 router.get('/Nft_auth', function(req, res) {
   res.send("auth")
-});s
+});
 
 
 
