@@ -7,7 +7,7 @@ The efforts have been put into building a PAAS for analyzing and building data d
 ## Inspiration
 Web3 ecosystem as a whole visualizes to see a world running on web3 technologies but it is one of the composite technologies existing in this era. Everyone is interested in utilizing the strength given by blockchain. Developers have been working on this vigorously to transform complex applications into easily accessible platforms.In this process of innovation, our team binary identified the Importance of analysis in web3 domain which is the key to scale.The Thought of analyzing the data made us to this point to build a platform where you integrate your smart contract or use api to stream data. Data processing is on us and data beautification, usability is on the user.
 
-### How is DeClick different!!!
+### How is Bermuda Unique!!!
 We hear at Bermuda work towards data integrity and accountability in the web3 space. The stored data is being analyzed to perform predictions and capture data patterns so that the applications in web3 space work with certainty.
 #### USP’s
 - Seamless data integration and indexing 
