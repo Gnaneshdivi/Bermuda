@@ -38,6 +38,7 @@ The PAAS works in providing the services of building personalized Dashboards and
 - Push Protocol : For notifying generated data alerts. 
 - Infura : IPFS service to store data 
 - TheGraph : Data storage and processing
+- Valist.io : Frountend hosting
 
 ### Technologies used 
 Node JS,Express JS,React JS
